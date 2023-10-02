@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #D3DEF0;
+}
+
+.Main-container{
+    box-shadow: black;
+    background-color: #ffffff;
+    display: flex;
+    width: 55%;
+    height: 50%;
+    margin-left: 20%;
+    margin-top: 2%;
+    border: 1px solid white;
+    font-family: sans-serif;
+}
+
+#image{
+    width: 70%;
+    height: 100%;
+}
+
+#form{
+    width: 140%;
+    height: 70%;
+    margin-left: -70%;
+    margin-top: 58%;
+}
+
+#heading{
+    font-weight: normal;
+    margin-top: 20%;
+    padding: 7%;
+}
+
+.typearea{
+    width: 45%;
+    height: 12%;
+} 
+
+#username-input{
+    margin-left: 7%;
+}
+#password-input{
+    margin-left: -2%;
+}
+
+#sign-btn{
+    display: block;
+    background: #06855c;
+    width: 81.5%;
+    height: 6%;
+    padding: 5%;
+    margin-top: 5%;
+    margin-left: 7%;
+    font-family: 'Segoe UI';
+    border-radius: 3px;
+    
+}
+
+#forgot{
+    margin-top: 5%;
+    font-size: 82%;
+}
+
+#sign-font{
+    text-decoration: none;
+    color: #fff;
+}
+
+#username-password{
+    text-decoration: none;
+    color: #05ac4a;
+}
